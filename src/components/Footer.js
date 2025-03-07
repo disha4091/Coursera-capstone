@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="">
             <section>
             <div className="company-info">
-                <img src={small_logo} alt=""/>
+                <img src={small_logo} alt="logo"/>
                 <p>We are a family owned Mediterraneran restaurant, focused on traditional recipes servred with a modern twist.</p>
             </div>
             <div>
